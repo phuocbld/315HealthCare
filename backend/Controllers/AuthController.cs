@@ -4,6 +4,9 @@ using System.Linq;
 using Microsoft.AspNetCore.Identity.Data;
 using _315HealthCareProject.Data;
 using _315HealthCareProject.DTO;
+using Microsoft.AspNetCore.Cors;
+
+
 
 namespace _315HealthCareProject.Controllers
 {

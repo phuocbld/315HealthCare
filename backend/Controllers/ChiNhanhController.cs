@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Threading.Tasks;
 using _315HealthCareProject.Services;
+using Microsoft.AspNetCore.Cors;
 
 [ApiController]
 [Route("api/chinhanh")]

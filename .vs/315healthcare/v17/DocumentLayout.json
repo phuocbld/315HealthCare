@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Software\\source\\repo\\315healthcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\ChiNhanhController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\ChiNhanhController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\CaLamViecController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Controllers\\CaLamViecController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\src\\services\\branch\\branchService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\services\\branch\\branchService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T10:00:36.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\appsettings.Development.json",
+              "RelativeToolTip": "backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T10:00:34.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChiNhanhController.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\ChiNhanhController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\ChiNhanhController.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\ChiNhanhController.cs",
+              "RelativeToolTip": "backend\\Controllers\\ChiNhanhController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:59:02.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CaLamViecController.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\CaLamViecController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CaLamViecController.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\CaLamViecController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CaLamViecController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:58:45.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:56:46.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Startup.cs",
+              "RelativeDocumentMoniker": "backend\\Startup.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Startup.cs",
+              "RelativeToolTip": "backend\\Startup.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwB8AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:56:40.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-19T09:54:51.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "branchService.js",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\src\\services\\branch\\branchService.js",
+              "RelativeDocumentMoniker": "frontend\\src\\services\\branch\\branchService.js",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\frontend\\src\\services\\branch\\branchService.js",
+              "RelativeToolTip": "frontend\\src\\services\\branch\\branchService.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-19T09:54:21.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Software\\source\\repo\\315healthcare\\backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T09:43:19.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

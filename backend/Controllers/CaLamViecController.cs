@@ -8,6 +8,7 @@ using _315HealthCareProject.Models;
 using _315HealthCareProject.Repositories;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Cors;
 
 [ApiController]
 [Route("api/calamviec")]

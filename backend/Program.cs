@@ -59,14 +59,13 @@ app.MapControllers();
 
 app.Run();
 
-
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy("AllowSpecificOrigin",
-        builder =>
-        {
-            builder.WithOrigins("localhost:3000") 
-                   .AllowAnyMethod()
-                   .AllowAnyHeader();
-        });
-});
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy("AllowSpecificOrigin",
+//        builder =>
+//        {
+//            builder.WithOrigins("localhost:3000") 
+//                   .AllowAnyMethod()
+//                   .AllowAnyHeader();
+//        });
+//});

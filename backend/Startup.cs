@@ -5,15 +5,10 @@ namespace _315HealthCareProject
     public class Startup
     {
 
-        public void Configure(IApplicationBuilder app , IWebHostEnvironment env)
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             // Thêm middleware CORS
-            app.UseCors(options =>
-            {
-                options.AllowAnyOrigin()
-                       .AllowAnyMethod()
-                       .AllowAnyHeader();
-            });
+            app.UseCors("AllowSpecificOrigin");
 
             // Các middleware khác
             app.UseHttpsRedirection();
@@ -27,6 +22,24 @@ namespace _315HealthCareProject
                 endpoints.MapControllers();
             });
         }
+        public void ConfigureServices(IServiceCollection services)
+        {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:6000")
+                               .AllowAnyMethod()
+                               .AllowAnyHeader();
+                    });
+            });
+
+            // Các dịch vụ khác
+            services.AddControllers();
+        }
+
+
 
     }
 }
